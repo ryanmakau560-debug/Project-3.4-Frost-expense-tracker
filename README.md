@@ -30,7 +30,7 @@ No installation needed — works offline after first load.
 - `README.md` → this file
 
 ## Technologies
-- HTML5
+- HTML
 - CSS3 (custom dark/frost theme)
 - Vanilla JavaScript (classes, array methods, localStorage, DOM manipulation)
 
