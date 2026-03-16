@@ -1,6 +1,6 @@
 # ❄️ Frost Expense Tracker
 
-A simple web app to track daily expenses. Built with HTML, CSS, and plain JavaScript as a beginner project.
+A simple web app to track daily expenses. Built with HTML, CSS and javascript
 
 ## Features
 - Add an expense (description, amount, category)
