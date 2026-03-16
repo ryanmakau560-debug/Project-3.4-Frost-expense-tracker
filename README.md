@@ -31,7 +31,7 @@ No installation needed — works offline after first load.
 
 ## Technologies
 - HTML
-- CSS3 (custom dark/frost theme)
+- CSS
 - Vanilla JavaScript (classes, array methods, localStorage, DOM manipulation)
 
 Made by Ryan  
