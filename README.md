@@ -32,7 +32,7 @@ No installation needed — works offline after first load.
 ## Technologies
 - HTML
 - CSS
-- Vanilla JavaScript (classes, array methods, localStorage, DOM manipulation)
+- JavaScript (classes, array methods, localStorage, DOM manipulation)
 
 Made by Ryan  
 Nairobi, March 2026
